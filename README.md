@@ -14,4 +14,4 @@ A princípio, a aplicação gera NFTs em formato de imagem que podem ser resgata
 ### Tecnologias usadas:
 - Hathor Network
 - Headless Wallet
-- ISFP
+- IPFS
